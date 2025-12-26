@@ -1,0 +1,6 @@
+# Minimal dependencies — tkinter is stdlib so no runtime requirement
+# Optional development and packaging tools
+pyinstaller>=5.1
+pytest>=7.0
+ruff>=0.12.0
+black>=23.0.0
